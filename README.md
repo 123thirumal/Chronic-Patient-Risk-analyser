@@ -5,7 +5,7 @@ We combine **vitals, labs, medications, and lifestyle data** with temporal infor
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo (Prototype)
 
 👉 [**Try the Dashboard Here**](https://chronic-patient-risk-analyser-ltkgk7zyhb3v42ifwndvze.streamlit.app/)
 
