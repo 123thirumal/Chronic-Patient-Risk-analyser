@@ -1,0 +1,13 @@
+# core
+torch>=2.0.0
+numpy
+pandas
+scikit-learn
+gensim
+matplotlib
+shap
+streamlit
+tqdm
+
+# optional: accelerate training if you want
+torchvision
